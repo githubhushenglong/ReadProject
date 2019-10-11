@@ -26,12 +26,11 @@ ros_tum_realtime.cc{
 	      //const cv::Mat &imGray, const cv::Mat &imS,
 	      //std::vector<std::vector<cv::KeyPoint>>& mvKeysT,
 	      //std::vector<cv::Point2f> T)
-	      //函数定义：ORBextractor.cc1026
-	      //int ORBextractor::CheckMovingKeyPoints( 
+	                                  //函数定义：ORBextractor.cc1062
 	      //const cv::Mat &imGray, const cv::Mat &imS,
 	      //std::vector<std::vector<cv::KeyPoint>>& mvKeysT,
 	      //std::vector<cv::Point2f> T)
-
+	      
 	    }
 	  }
 	  mImS = mpSegment->mImgSegmentLatest;
